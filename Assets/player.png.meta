@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 009fbf9c67fac0e478b7e185e0123b26
+guid: 7c5d31353ca9be24092bfd3efdf6771a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 191806670061401335
-    second: overworldmap_0
+      213: 4334783836991956000
+    second: player_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: overworldmap_0
+      name: player_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1536
-        height: 1024
+        width: 1024
+        height: 1536
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f47f82762f69a200800000000000000
-      internalID: 191806670061401335
+      spriteID: 024a20edeee382c30800000000000000
+      internalID: 4334783836991956000
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      overworldmap_0: 191806670061401335
+      player_0: 4334783836991956000
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
