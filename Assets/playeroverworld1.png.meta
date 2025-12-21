@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fbbb63c2faf3e5f4a8e7193f99381c71
+guid: 4b8aa9e1a99622b429847752d04415ed
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 155330059864520173
-    second: playerclean_0
+      213: 4050757532630917615
+    second: playeroverworld1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: playerclean_0
+      name: playeroverworld1_0
       rect:
         serializedVersion: 2
-        x: 176
-        y: 165
-        width: 727
-        height: 1220
+        x: 0
+        y: 0
+        width: 327
+        height: 522
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: de53a21ddd7d72200800000000000000
-      internalID: 155330059864520173
+      spriteID: fe124bb938e273830800000000000000
+      internalID: 4050757532630917615
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      playerclean_0: 155330059864520173
+      playeroverworld1_0: 4050757532630917615
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
